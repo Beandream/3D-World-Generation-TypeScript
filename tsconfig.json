@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "./App",
+        "target": "esnext",
+        "watch": true,
+        "lib": ["dom", "ES2021"]
+    }
+}
